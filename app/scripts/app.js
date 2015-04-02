@@ -8,15 +8,19 @@
  *
  * Main module of the application.
  */
-angular
-  .module('nodejsYoApp', [
+angular.module('nodejsYoApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch',
+    'ui.sortable',
+    'LocalStorageModule'
   ])
+  .config(['localStorageServiceProvider', function(localStorageServiceProvider){
+     localStorageServiceProvider.setPrefix('ls');
+  }])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
