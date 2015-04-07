@@ -1,0 +1,11 @@
+<div class="note-area" ng-show="!editMode">
+  <ul>
+    <li ng-repeat="note in notes|orderBy:'id'">
+      <a href="javascript:void(0);" ng-click="openEditor(note.id)">{{note.title}}</a>
+      <a href="javascript:void(0);" class="btn btn-danger btn-xs pull-right" ng-click="delete(note.id)">X</a>
+    </li>
+  </ul>
+</div>
+<div id="editor" ng-show="editMode" class="note-area" contenteditable="true" ng-bind="noteText"></div>
+<a href="javascript:void(0);" class="btn btn-primary" ng-click="save()" ng-show="editMode">Back</a>
+<a href="javascript:void(0);" class="btn btn-primary" ng-click="openEditor()" ng-show="!editMode">New Note</a>

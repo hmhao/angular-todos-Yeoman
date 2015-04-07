@@ -31,6 +31,9 @@ angular.module('nodejsYoApp', [
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
       })
+      .when('/note', {
+        templateUrl: 'views/note.html'
+      })
       .otherwise({
         redirectTo: '/'
       });
