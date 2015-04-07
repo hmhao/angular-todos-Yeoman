@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name nodejsYoApp.controller:MainCtrl
+ * @name nodejsYoApp.directive:notepad
  * @description
- * # MainCtrl
- * Controller of the nodejsYoApp
+ * # notepad
+ * Directive of the nodejsYoApp
  */
 angular.module('nodejsYoApp')
     .factory('notesFactory', function() {
