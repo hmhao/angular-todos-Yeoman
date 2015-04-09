@@ -34,6 +34,14 @@ angular.module('nodejsYoApp', [
       .when('/note', {
         templateUrl: 'views/note.html'
       })
+      .when('/phones', {
+          templateUrl: 'views/phone-list.html',
+          controller: 'PhoneListCtrl'
+      })
+      .when('/phones/:phoneId', {
+          templateUrl: 'views/phone-detail.html',
+          controller: 'PhoneDetailCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
@@ -43,7 +51,7 @@ angular.module('nodejsYoApp', [
       {
         label: 'Home',
         href: '#/',
-        active:true
+        active:false
       },{
         label: 'Search',
         href: '#/search',
@@ -52,8 +60,17 @@ angular.module('nodejsYoApp', [
         label: 'Note',
         href: '#/note',
         active:false
+      },{
+        label: 'Phone',
+        href: '#/phones',
+        active:false
       }
     ];
+    var path = new RegExp('^#' + $location.path()+'$','i');
+    for(var i = 0, len = $scope.menus.length; i < len; i++){
+      $scope.menus[i].active = path.test($scope.menus[i].href);
+    }
+    
     $scope.toggleActive = function(item){
       for(var i = 0, len = $scope.menus.length; i < len; i++){
         $scope.menus[i].active = $scope.menus[i] === item;
