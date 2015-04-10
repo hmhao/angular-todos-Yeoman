@@ -35,10 +35,10 @@ angular.module('nodejsYoApp')
           $scope.phones = Phone.query();
           $scope.orderProp = 'age';
       }
-  ]).controller('PhoneDetailCtrl', ['$scope', '$routeParams', 'Phone',
-      function($scope, $routeParams, Phone) {
+  ]).controller('PhoneDetailCtrl', ['$scope', '$state', 'Phone',
+      function($scope, $state, Phone) {
           $scope.phone = Phone.get({
-              phoneId: $routeParams.phoneId
+              phoneId: $state.params.phoneId
           }, function(phone) {
               $scope.mainImageUrl = phone.images[0];
           });
