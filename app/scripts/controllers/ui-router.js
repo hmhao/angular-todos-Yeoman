@@ -135,6 +135,11 @@ uiRouter.config(function($stateProvider, $urlRouterProvider) {
             href: '#/uirouter',
             regexp: /^\/uirouter(?:\/)?/,
             active:false
+          },{
+            label: 'Form',
+            href: '#/form',
+            regexp: /^\/form(?:\/)?/,
+            active:false
           }
         ];
         var path = $location.path();
