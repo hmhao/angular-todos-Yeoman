@@ -22,4 +22,97 @@
       </span>
     </p>
   </div>
+  <todo-accordion>
+    <todo-accordion-pane title="<b>基本功能</b>">
+      <p>
+        AngularJS是Google推出的一款Web应用开发框架。它提供了一系列兼容性良好并且可扩展的服务，包括数据绑定、DOM操作、MVC设计模式和模块加载等。本文专注于AngularJS 指令的使用，在我们进入主题之前，我们将快速浏览AngularJS的基本用法。
+      </p>
+      <p>
+        AngularJS 不仅仅是一个类库，而是提供了一个完整的框架。它避免了您和多个类库交互，需要熟悉多套接口的繁琐工作。它由Google Chrome的开发人员设计，引领着下一代Web应用开发。也许我们5年或10年后不会使用AngularJS，但是它的设计精髓将会一直被沿用。
+      </p>
+    </todo-accordion-pane>
+    <todo-accordion-pane title="<b>创建自定义指令</b>">
+      <ul>
+        <li>
+          name - 当前scope的名称，注册时可以使用默认值（不填）。
+        </li>
+        <li>
+          priority（优先级）- 当有多个directive定义在同一个DOM元素时，有时需要明确它们的执行顺序。这属性用于在directive的compile function调用之前进行排序。如果优先级相同，则执行顺序是不确定的（经初步试验，优先级高的先执行，同级时按照类似栈的"后绑定先执行"。另外，测试时有点不小心，在定义directive的时候，两次定义了一个相同名称的directive，但执行结果发现，两个compile或者link function都会执行）。
+        </li>
+        <li>
+          terminal（最后一组）- 如果设置为"true"，则表示当前的priority将会成为最后一组执行的directive。任何directive与当前的优先级相同的话，他们依然会执行，但顺序是不确定的（虽然顺序不确定，但基本上与priority的顺序一致。当前优先级执行完毕后，更低优先级的将不会再执行）。
+        </li>
+        <li>
+          scope - 如果设置为：
+            <p>
+              true - 将为这个directive创建一个新的scope。如果在同一个元素中有多个directive需要新的scope的话，它还是只会创建一个scope。新的作用域规则不适用于根模版（root of the template），因此根模版往往会获得一个新的scope。
+            </p>
+            <p>
+              {}(object hash) - 将创建一个新的、独立(isolate)的scope。"isolate" scope与一般的scope的区别在于它不是通过原型继承于父scope的。这对于创建可复用的组件是很有帮助的，可以有效防止读取或者修改父级scope的数据。这个独立的scope会创建一个拥有一组来源于父scope的本地scope属性(local scope properties)的object hash。这些local properties对于为模版创建值的别名很有帮助（useful for aliasing values for templates）。本地的定义是对其来源的一组本地scope property的hash映射(Locals definition is a hash of local scope property to its source)：
+              <ul>
+                <li>
+                  @或@attr - 建立一个local scope property到DOM属性的绑定。因为属性值总是String类型，所以这个值总是返回一个字符串。如果没有通过@attr指定属性名称，那么本地名称将与DOM属性的名称一直。例如<code>&lt;widget my-attr="hello {{name}}"&gt;</code>;widget的scope定义为：<code>{localName:'@myAttr'}</code>。那么，widget scope property的localName会映射出<code>"hello {{name}}"</code>转换后的真实值。name属性值改变后，widget scope的localName属性也会相应地改变（仅仅单向，与下面的"="不同）。name属性是在父scope读取的（不是组件scope）
+                </li>
+                <li>
+                  =或=expression（这里也许是attr） - 在本地scope属性与parent scope属性之间设置双向的绑定。如果没有指定attr名称，那么本地名称将与属性名称一致。例如<code>&lt;widget my-attr="parentModel"&gt;</code>，widget定义的scope为：<code>{localModel:'=myAttr'}</code>，那么widget scope property "localName"将会映射父scope的"parentModel"。如果parentModel发生任何改变，localModel也会发生改变，反之亦然。（双向绑定）
+                </li>
+                <li>
+                  &或&attr - 提供一个在父scope上下文中执行一个表达式的途径。如果没有指定attr的名称，那么local name将与属性名称一致。例如<code>&lt;widget my-attr="count = count + value"&gt;</code>，widget的scope定义为：<code>{localFn:'increment()'}</code>，那么isolate scope property "localFn"会指向一个包裹着increment()表达式的function。一般来说，我们希望通过一个表达式，将数据从isolate scope传到parent scope中。这可以通过传送一个本地变量键值的映射到表达式的wrapper函数中来完成。例如，如果表达式是increment(amount)，那么我们可以通过localFn({amount:22})的方式调用localFn以指定amount的值。
+                </li>
+              </ul>
+            </p>
+        </li>
+        <li>
+          controller - controller 构造函数。controller会在pre-linking步骤之前进行初始化，并允许其他directive通过指定名称的require进行共享（看下面的require属性）。这将允许directive之间相互沟通，增强相互之间的行为。controller默认注入了以下本地对象：
+          <ul>
+            <li>$scope - 与当前元素结合的scope</li>
+            <li>$element - 当前的元素</li>
+            <li>$attrs - 当前元素的属性对象</li>
+            <li>$transclude - 一个预先绑定到当前转置scope的转置linking function :function(cloneLinkingFn)。(A transclude linking function pre-bound to the correct transclusion scope)</li>
+          </ul>
+        </li>
+        <li>
+          require - 请求另外的controller，传入当前directive的linking function中。require需要传入一个directive controller的名称。如果找不到这个名称对应的controller，那么将会抛出一个error。名称可以加入以下前缀：
+          <ul>
+            <li>? - 不要抛出异常。这使这个依赖变为一个可选项。</li>
+            <li>^ - 允许查找父元素的controller</li>
+          </ul>
+        </li>
+        <li>
+          restrict - EACM的子集的字符串，它限制directive为指定的声明方式。如果省略的话，directive将仅仅允许通过属性声明：
+          <ul>
+            <li>E - 元素名称： <code>&lt;my-directive&gt;&lt;/my-directive&gt;</code></li>
+            <li>A - 属性名： <code>&lt;div my-directive="exp"&gt;&lt;/div&gt;</code></li>
+            <li>C - class名： <code>&lt;div class="my-directive:exp;"&gt;&lt;/div&gt;</code></li>
+            <li>M - 注释 ： <code>&lt;!-- directive: my-directive exp --&gt;</code></li>
+          </ul>
+        </li>
+        <li>
+          template - 如果replace 为true，则将模版内容替换当前的HTML元素，并将原来元素的属性、class一并迁移；如果为false，则将模版元素当作当前元素的子元素处理。想了解更多的话，请查看"Creating Widgets"章节
+        </li>
+        <li>
+          templateUrl - 与template基本一致，但模版通过指定的url进行加载。因为模版加载是异步的，所以compilation、linking都会暂停，等待加载完毕后再执行。
+        </li>
+        <li>
+          replace - 如果设置为true，那么模版将会替换当前元素，而不是作为子元素添加到当前元素中。（注：为true时，模版必须有一个根节点）
+        </li>
+        <li>
+          transclude - 编译元素的内容，使它能够被directive所用。需要(在模版中)配合ngTransclude使用(引用)。transclusion的优点是linking function能够得到一个预先与当前scope绑定的transclusion function。一般地，建立一个widget，创建isolate scope，transclusion不是子级的，而是isolate scope的兄弟。这将使得widget拥有私有的状态，transclusion会被绑定到父级（pre-isolate）scope中。
+          <ul>
+            <li>true - 转换这个directive的内容。</li>
+            <li>'element' - 转换整个元素，包括其他优先级较低的directive。</li>
+          </ul>
+        </li>
+        <li>
+          compile - 这里是compile function
+        </li>
+        <li>
+          link - 这里是link function
+        </li>
+      </ul>
+    </todo-accordion-pane>
+    <todo-accordion-pane title="<b>体验实例</b>">
+      <p>这就是一个自定义指令。</p>
+    </todo-accordion-pane>
+  </todo-accordion>
 </div>
