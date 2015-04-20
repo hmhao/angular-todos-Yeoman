@@ -140,6 +140,11 @@ uiRouter.config(function($stateProvider, $urlRouterProvider) {
             href: '#/form',
             regexp: /^\/form(?:\/)?/,
             active:false
+          },{
+            label: 'Book',
+            href: '#/book',
+            regexp: /^\/book(?:\/)?/,
+            active:false
           }
         ];
         var path = $location.path();
