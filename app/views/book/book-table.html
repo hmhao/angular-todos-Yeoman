@@ -17,6 +17,9 @@
                     <td data-title="'价格'" sortable="'price'">
                         {{book.price}}
                     </td>
+                    <td>
+                        <a ui-sref="book.bookdetail({bookId:{{book.bookId}}})">详情</a>
+                    </td>
                 </tr>
             </table>
         </div>
