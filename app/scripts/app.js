@@ -19,7 +19,8 @@ angular.module('nodejsYoApp', [
     /*自定义模块*/
     'uiRouter',
     'form',
-    'book'
+    'book',
+    'vocabulary'
   ])
   .config(['localStorageServiceProvider', function(localStorageServiceProvider){
      localStorageServiceProvider.setPrefix('ls');

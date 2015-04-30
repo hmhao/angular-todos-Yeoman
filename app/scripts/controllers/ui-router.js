@@ -35,6 +35,10 @@ uiRouter.config(function($stateProvider, $urlRouterProvider) {
                 }
             }
         })
+        .state('vocabulary', {//将template替换到顶层ui-view
+            url: '/vocabulary',
+            templateUrl: 'views/vocabulary.html'
+        })
         .state('uirouter', {
             url: '/uirouter',
             views: {
@@ -144,6 +148,11 @@ uiRouter.config(function($stateProvider, $urlRouterProvider) {
             label: 'Book',
             href: '#/book',
             regexp: /^\/book(?:\/)?/,
+            active:false
+          },{
+            label: 'Vocabulary',
+            href: '#/vocabulary',
+            regexp: /^\/vocabulary(?:\/)?/,
             active:false
           }
         ];
