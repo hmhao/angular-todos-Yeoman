@@ -45,7 +45,7 @@ angular.module('nodejsYoApp')
 
           $scope.setImage = function(imageUrl) {
               $scope.mainImageUrl = imageUrl;
-          }
+          };
       }
   ])
   .animation('.phone', function() {
@@ -69,7 +69,7 @@ angular.module('nodejsYoApp')
                   element.stop();
               }
           };
-      }
+      };
 
       var animateDown = function(element, className, done) {
           if (className != 'active') {
@@ -90,7 +90,7 @@ angular.module('nodejsYoApp')
                   element.stop();
               }
           };
-      }
+      };
 
       return {
           addClass: animateUp,

@@ -1,6 +1,18 @@
 <div class="row">
     <div class="col-md-8" ng-controller="VocabularyCtrl">
-        <h2>Vocabulary</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Vocabulary</h2>
+            </div>
+            <div class="col-md-8">
+                <span class="input-group" style="margin: 20px 0px 10px">
+                    <input type="text" class="form-control" placeholder="Search for..." ng-model="searchWord">
+                    <span class="input-group-btn">
+                        <button class="btn btn-default" type="button" ng-click="search()">Search</button>
+                    </span>
+                </span>
+            </div>
+        </div>
         <ul class="list-group" id="vocabulary_list">
             <li class="list-group-item" ng-repeat="word in vocabulary">
                 <word ng-model="word" player="player"></word>

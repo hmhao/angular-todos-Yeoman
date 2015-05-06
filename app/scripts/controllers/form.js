@@ -1,3 +1,5 @@
+'use strict';
+
 angular.module('form', ['ngAnimate', 'ui.router'])
 .config(function($stateProvider, $urlRouterProvider) {
     $urlRouterProvider.when('/form','/form/profile');

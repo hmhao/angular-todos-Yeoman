@@ -1,3 +1,5 @@
+'use strict';
+
 var uiRouter = angular.module('uiRouter', ['ui.router']);
 uiRouter.config(function($stateProvider, $urlRouterProvider) {
     $urlRouterProvider.otherwise('/');
@@ -60,8 +62,8 @@ uiRouter.config(function($stateProvider, $urlRouterProvider) {
                     templateUrl: 'views/ui-router/usermng.html',
                     controller: function($scope, $state) {
                         $scope.addUserType = function() {
-                            $state.go("uirouter.usermng.addusertype");
-                        }
+                            $state.go('uirouter.usermng.addusertype');
+                        };
                     }
                 }
             }
@@ -84,7 +86,7 @@ uiRouter.config(function($stateProvider, $urlRouterProvider) {
             controller: function($scope, $state) {
                 $scope.backToPrevious = function() {
                     window.history.back();
-                }
+                };
             }
         })
         .state('uirouter.permission', {
@@ -110,7 +112,7 @@ uiRouter.config(function($stateProvider, $urlRouterProvider) {
                     template: '这里是系统设置'
                 }
             }
-        })
+        });
     })
     .controller('NavbarCtrl', function ($scope, $location) {
         $scope.menus = [

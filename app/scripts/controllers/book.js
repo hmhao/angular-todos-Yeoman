@@ -1,3 +1,5 @@
+'use strict';
+
 angular.module('book', ['ui.router', 'ngTable'])
 /**
  * 配置路由。
@@ -50,13 +52,13 @@ angular.module('book', ['ui.router', 'ngTable'])
                     templateUrl: 'views/book/book-detail.html'
                 }
             }
-        })
+        });
 })
 .controller('LoginCtrl', function($scope) {
     $scope.userInfo = {};
 
     $scope.setRandomData = function() {
-        $scope.userInfo.email = new Date().getTime()+"@qq.com";
+        $scope.userInfo.email = new Date().getTime()+'@qq.com';
         $scope.userInfo.password = 123456;
     };
      
@@ -100,7 +102,7 @@ angular.module('book', ['ui.router', 'ngTable'])
                 method: 'GET',
                 url: url
             });
-        }
+        };
 
         var booklistAPI = {
             books: [],
@@ -110,8 +112,8 @@ angular.module('book', ['ui.router', 'ngTable'])
             },
             getBook: function(bookId){
                 for (var i = this.books.length - 1; i >= 0; i--) {
-                    if(this.books[i].bookId == bookId) return this.books[i]
-                };
+                    if(this.books[i].bookId == bookId) return this.books[i];
+                }
                 return {};
             },
             tableParams: new NgTableParams({
@@ -122,7 +124,7 @@ angular.module('book', ['ui.router', 'ngTable'])
                     // use build-in angular filter
                     var orderedData = params.sorting() ?
                         $filter('orderBy')(booklistAPI.books, params.orderBy()) :
-                        data;
+                        booklistAPI.books;
                     orderedData = params.filter() ?
                         $filter('filter')(orderedData, params.filter()) :
                         orderedData;
@@ -146,7 +148,7 @@ angular.module('book', ['ui.router', 'ngTable'])
     var bookId = $state.params.bookId;
     var showBookDetail = function(id){
         $scope.bookInfo = BookList.getBook(id);
-    }
+    };
 
     if(BookList.books.length <= 0){
         BookList.get(0).success(function(data, status){
