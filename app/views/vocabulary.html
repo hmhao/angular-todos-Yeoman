@@ -14,14 +14,17 @@
             </div>
         </div>
         <ul class="list-group" id="vocabulary_list">
-            <li class="list-group-item" ng-repeat="word in vocabulary">
+            <li class="list-group-item" ng-class="{'active': word.isActive}" ng-repeat="word in vocabulary">
                 <word ng-model="word" player="player"></word>
             </li>
         </ul>
     </div>
-    <div class="col-md-4" ng-controller="RelatedCtrl">
+    <!--div class="col-md-2 visible-md visible-lg" ng-controller="RelatedCtrl" style="position: fixed;right: 0">
         <h2>Related content</h2>
         <p>{{related}}</p>
         <p>{{description}}</p>
+    </div-->
+    <div class="col-md-4 visible-md visible-lg">
+        <relate class="related-info" data-offset-top="100"></relate>
     </div>
 </div>

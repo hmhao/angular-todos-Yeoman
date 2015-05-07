@@ -1,0 +1,866 @@
+{"Moment": {
+    "word": "Moment",
+    "related": "Moment",
+    "description": "Parse, validate, manipulate, and display dates in JavaScript.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/67/3d/673d4f049f0db3d188488f447477968a.mp3"
+}, "Velocity": {
+    "word": "Velocity",
+    "related": "Velocity",
+    "description": "Velocity is an animation engine with the same API as jQuery's $.animate().",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/ac/1a/ac1a453d0cdc1f19d9479ccfaa8b082c.mp3"
+}, "Sea": {
+    "word": "Sea",
+    "related": "Sea",
+    "description": "提供简单、极致的模块化开发体验",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/80/4f/804f743824c0451b2f60d81b63b6a900.mp3"
+}, "D3": {
+    "word": "D3",
+    "related": "D3",
+    "description": "D3.js is a JavaScript library for manipulating documents based on data.",
+    "mp3": ""
+}, "CodeMirror": {
+    "word": "CodeMirror",
+    "related": "CodeMirror",
+    "description": "CodeMirror is a versatile text editor implemented in JavaScript for the browser.",
+    "mp3": ""
+}, "PhysicsJS": {
+    "word": "PhysicsJS",
+    "related": "PhysicsJS",
+    "description": "A modular, extendable, and easy-to-use physics engine for javascript",
+    "mp3": ""
+}, "Arale": {
+    "word": "Arale",
+    "related": "Arale",
+    "description": "Arale 立足于支付宝的前端需求和国内前端社区，基于 Sea.js 和 spm 生态圈，致力发展小而美的前端模块架构，建立了一套从编码测试到部署的开发体系， 是一个开放、简单、易用的前端解决方案。",
+    "mp3": ""
+}, "react-native-swiper": {
+    "word": "react-native-swiper",
+    "related": "react-native-swiper",
+    "description": "The best Swiper component for React Native.",
+    "mp3": ""
+}, "React Native": {
+    "word": "React Native",
+    "related": "React Native",
+    "description": "React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React.",
+    "mp3": ""
+}, "Fontmin": {
+    "word": "Fontmin",
+    "related": "Fontmin",
+    "description": "「大道三千，各取其一，须弥芥子，无所增减」Fontmin 第一个纯 JavaScript 字体子集化方案",
+    "mp3": ""
+}, "node-notifier": {
+    "word": "node-notifier",
+    "related": "node-notifier",
+    "description": "使用 node 控制 在 Mac 10.8+ 和 Win 8+ 弹窗推送消息",
+    "mp3": ""
+}, "gulp 入门指南": {
+    "word": "gulp 入门指南",
+    "related": "gulp 入门指南",
+    "description": "gulp 是基于 node 实现 Web 前端自动化开发的工具，利用它能够极大的提高开发效率。",
+    "mp3": ""
+}, "Babel": {
+    "word": "Babel",
+    "related": "Babel",
+    "description": "Babel is a compiler for writing next generation JavaScript.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/a4/f8/a4f8b514434154c1af25777bccd0efa0.mp3"
+}, "Flow": {
+    "word": "Flow",
+    "related": "Flow",
+    "description": "Flow is a static type checker, designed to find type errors in JavaScript programs",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/cf/f5/cff5497121104c2b8e0cb41ed2083a9b.mp3"
+}, "sugarjs": {
+    "word": "sugarjs",
+    "related": "sugarjs",
+    "description": "Sugar is a Javascript library that extends native objects with helpful methods. It is designed to be intuitive, unobtrusive, and let you do more with less code.",
+    "mp3": ""
+}, "Dynamic Dummy Image Generator": {
+    "word": "Dynamic Dummy Image Generator",
+    "related": "Dynamic Dummy Image Generator",
+    "description": "在线模拟动态占位图片",
+    "mp3": ""
+}, "BlendUI": {
+    "word": "BlendUI",
+    "related": "BlendUI",
+    "description": "Mobile first 前端开发框架，提供丰富组件，让应用开发像拼积木一样简单。",
+    "mp3": ""
+}, "aurelia": {
+    "word": "aurelia",
+    "related": "aurelia",
+    "description": "Aurelia is a next generation JavaScript client framework that leverages simple conventions to empower your creativity.",
+    "mp3": ""
+}, "assemble": {
+    "word": "assemble",
+    "related": "assemble",
+    "description": "It has never been easier to leverage the full force of powerful frameworks like Bootstrap and Zurb Foundation. Nothing can stop you now.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/c8/60/c86060d643ad08681d96e355299a0ee5.mp3"
+}, "YUI": {
+    "word": "YUI",
+    "related": "YUI",
+    "description": "The event-touch module extends the whitelist of DOM events to include the native touch and gesture events and adds relevant information to event facades.",
+    "mp3": ""
+}, "biolerplates": {
+    "word": "biolerplates",
+    "related": "biolerplates",
+    "description": "HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package.",
+    "mp3": ""
+}, "zeptojs": {
+    "word": "zeptojs",
+    "related": "zeptojs",
+    "description": "Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API.",
+    "mp3": ""
+}, "IcoMoon App": {
+    "word": "IcoMoon App",
+    "related": "IcoMoon App",
+    "description": "Custom built and crisp icon fonts, done right",
+    "mp3": ""
+}, "QST": {
+    "word": "QST",
+    "related": "QST",
+    "description": "qst 是一个基于 Stylus 的样式工具库，帮助您更轻松地书写 Stylus 代码。",
+    "mp3": ""
+}, "mootools": {
+    "word": "mootools",
+    "related": "mootools",
+    "description": "Makes your web applications more touching. Provides custom events and useful browser information for mobile web (application) development.",
+    "mp3": ""
+}, "duojs": {
+    "word": "duojs",
+    "related": "duojs",
+    "description": "Duo is a next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.",
+    "mp3": ""
+}, "UglifyJS": {
+    "word": "UglifyJS",
+    "related": "UglifyJS",
+    "description": "UglifyJS is a JavaScript compressor/minifier written in JavaScript. It also contains tools that allow one to automate working with JavaScript code",
+    "mp3": ""
+}, "GreenSock": {
+    "word": "GreenSock",
+    "related": "GreenSock",
+    "description": "Ultra high-performance, professional-grade animation for the modern web",
+    "mp3": ""
+}, "susy": {
+    "word": "susy",
+    "related": "susy",
+    "description": "辅助快速构建web栅格化布局",
+    "mp3": ""
+}, "jsperf": {
+    "word": "jsperf",
+    "related": "jsperf",
+    "description": "jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.",
+    "mp3": ""
+}, "sammy": {
+    "word": "sammy",
+    "related": "sammy",
+    "description": "a small web framework with class",
+    "mp3": ""
+}, "Interdimensional": {
+    "word": "Interdimensional",
+    "related": "Interdimensional",
+    "description": "#建议在手机或者平板上测试效果。\r\nSpatial scrolling for modern devices with a gyroscope.\r\n利用移动设备陀螺仪位置和方向的感知，控制页面的上下文滚动。\r\nActivate it and a current tilt will be saved.\r\n当你激活该功能时，当前的倾斜角度会被记录下来作为对比参考值。\r\nTilt a device relative to a saved position.\r\n然后倾斜移动设备的角度，根据相对于对比参考值的差值大小来使页面上下滑动。",
+    "mp3": ""
+}, "spine": {
+    "word": "spine",
+    "related": "spine",
+    "description": "Build Awesome JavaScript MVC Applications",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/a3/5e/a35ecf344c66770b2ba0f0e913747072.mp3"
+}, "canjs": {
+    "word": "canjs",
+    "related": "canjs",
+    "description": "CanJS is a JavaScript library that makes developing complex applications simple and fast. Easy-to-learn, small, and unassuming of your application structure, but with modern features like custom tags and 2-way binding. Creating apps is easy and maintainable.",
+    "mp3": ""
+}, "flights": {
+    "word": "flights",
+    "related": "flights",
+    "description": "Flight is a lightweight, component-based JavaScript framework that maps behavior to DOM nodes. Twitter uses it for their web applications.",
+    "mp3": ""
+}, "batman": {
+    "word": "batman",
+    "related": "batman",
+    "description": "If you love Ruby on Rails, batman.js is the best, most familiar way to build rich web apps in CoffeeScript.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/ec/0e/ec0e2603172c73a8b644bb9456c1ff6e.mp3"
+}, "riot": {
+    "word": "riot",
+    "related": "riot",
+    "description": "Riot is a manifesto for vanilla JavaScript and jQuery",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/2f/53/2f53086555b7fbb940ce78616ff212e5.mp3"
+}, "iio": {
+    "word": "iio",
+    "related": "iio",
+    "description": "iio engine (pronounced 'ee-oh') is a framework that speeds the creation and deployment of HTML5 Canvas applications.",
+    "mp3": ""
+}, "soma": {
+    "word": "soma",
+    "related": "soma",
+    "description": "soma.js is a javascript framework.It is a lightweight framework that has been created to build loosely-coupled applications.",
+    "mp3": "http://res-tts.iciba.com/1/5/a/15a00ab33070d69d3ec3f03a9222034b.mp3"
+}, "feathers": {
+    "word": "feathers",
+    "related": "feathers",
+    "description": "Feathers is a library that extends Express - one of the most popular web frameworks for NodeJS - with the ability to easily create shared RESTful web services and real-time APIs using SocketIO and other websocket libraries.",
+    "mp3": ""
+}, "reactive.coffee": {
+    "word": "reactive.coffee",
+    "related": "reactive.coffee",
+    "description": "A lightweight CoffeeScript library/DSL for reactive programming and for declaratively building scalable web UIs",
+    "mp3": ""
+}, "ICECSS": {
+    "word": "ICECSS",
+    "related": "ICECSS",
+    "description": "ICECSS是一个以冰山为灵感的开源高效的基于Jquery的CSS框架，不仅有着开发快速、美观易用等特点，官方本身还提供CDN服务、快速开发demo和测试的云服务等等。",
+    "mp3": ""
+}, "qunit": {
+    "word": "qunit",
+    "related": "qunit",
+    "description": "QUnit is a powerful, easy-to-use JavaScript unit testing framework. It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code, including itself!",
+    "mp3": ""
+}, "Express": {
+    "word": "Express",
+    "related": "Express",
+    "description": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/4c/a6/4ca65a8bdbeae8b6ee400801a8a8f812.mp3"
+}, "stapes": {
+    "word": "stapes",
+    "related": "stapes",
+    "description": "Stapes.js is designed to be agnostic about your setup and style of coding.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/49/bc/49bc2f812f27eb48819a78c1f8233de2.mp3"
+}, "aurajs": {
+    "word": "aurajs",
+    "related": "aurajs",
+    "description": "A scalable, event-driven JavaScript architecture for developing component-based applications.",
+    "mp3": ""
+}, "nativeScript": {
+    "word": "nativeScript",
+    "related": "nativeScript",
+    "description": "Develop Truly Native Apps with JavaScript and CSS\r\nBuild native iOS, Android and Windows Phone apps from a single code base",
+    "mp3": ""
+}, "Agility": {
+    "word": "Agility",
+    "related": "Agility",
+    "description": "Agility.js is an MVC library for Javascript",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/84/1d/841d806fd1f9758dbbed5b4dbfcccfe3.mp3"
+}, "css3 clip辅助工具": {
+    "word": "css3 clip辅助工具",
+    "related": "css3 clip辅助工具",
+    "description": "一个css3 image clip 辅助工具",
+    "mp3": ""
+}, "Appium": {
+    "word": "Appium",
+    "related": "Appium",
+    "description": "Appium is an open source test automation framework for use with native, hybrid and mobile web apps.",
+    "mp3": ""
+}, "Dojo Bootstrap": {
+    "word": "Dojo Bootstrap",
+    "related": "Dojo Bootstrap",
+    "description": "Bringing Bootstrap components to life with custom Dojo modules.",
+    "mp3": ""
+}, "Amaze UI": {
+    "word": "Amaze UI",
+    "related": "Amaze UI",
+    "description": "可能是最懂中文的 HTML5 前端框架",
+    "mp3": ""
+}, "Ractive.js": {
+    "word": "Ractive.js",
+    "related": "Ractive.js",
+    "description": "Ractive.js is a template-driven UI library, but unlike other tools that generate inert HTML, it transforms your templates into blueprints for apps that are interactive by default.",
+    "mp3": ""
+}, "fontcustom": {
+    "word": "fontcustom",
+    "related": "fontcustom",
+    "description": "Generate custom icon webfonts from the comfort of the command line.",
+    "mp3": ""
+}, "Ionic creator": {
+    "word": "Ionic creator",
+    "related": "Ionic creator",
+    "description": "Creator makes it easy to rapidly build Ionic mobile apps. With a drag-and-drop interface and real code exporting, you can create live apps for your team with a few drags of the mouse. And it's totally free to use.",
+    "mp3": ""
+}, "http-server": {
+    "word": "http-server",
+    "related": "http-server",
+    "description": "一个简单的零配置命令行http服务器 (基于node)",
+    "mp3": ""
+}, "skrollr": {
+    "word": "skrollr",
+    "related": "skrollr",
+    "description": "兼容IE的视差滚动库",
+    "mp3": ""
+}, "reveal.js": {
+    "word": "reveal.js",
+    "related": "reveal.js",
+    "description": "The HTML Presentation Framework",
+    "mp3": ""
+}, "Snap.svg": {
+    "word": "Snap.svg",
+    "related": "Snap.svg",
+    "description": "The JavaScript SVG library for the modern web.",
+    "mp3": ""
+}, "Modernizr": {
+    "word": "Modernizr",
+    "related": "Modernizr",
+    "description": "检查浏览器对HTML5和CSS3特型的支持程度的JS库。",
+    "mp3": ""
+}, "Pen": {
+    "word": "Pen",
+    "related": "Pen",
+    "description": "enjoy live editing (支持markdown编辑)",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/03/f0/03f00e8e9d0d0847bb10a3a22334274a.mp3"
+}, "Swig": {
+    "word": "Swig",
+    "related": "Swig",
+    "description": "A simple, powerful, and extendable JavaScript Template Engine.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/2d/0d/2d0dfa5abdd3d197a2b30bdb62d48664.mp3"
+}, "jade": {
+    "word": "jade",
+    "related": "jade",
+    "description": "Jade is a template language.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/bf/17/bf17e568257ec4f32a1128167e882312.mp3"
+}, "Kendo UI": {
+    "word": "Kendo UI",
+    "related": "Kendo UI",
+    "description": "HTML5 widgets for web and mobile development",
+    "mp3": ""
+}, "ThinkJS": {
+    "word": "ThinkJS",
+    "related": "ThinkJS",
+    "description": "基于Promise的Node.js MVC框架",
+    "mp3": ""
+}, "Pure": {
+    "word": "Pure",
+    "related": "Pure",
+    "description": "A set of small, responsive CSS modules that you can use in every web project.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/6b/34/6b341881ce7c5bfb0fbbbe7171f27cdc.mp3"
+}, "OnsenUI": {
+    "word": "OnsenUI",
+    "related": "OnsenUI",
+    "description": "A Custom Elements-Based HTML5 UI Framework",
+    "mp3": ""
+}, "tracking.js": {
+    "word": "tracking.js",
+    "related": "tracking.js",
+    "description": "A modern approach for Computer Vision on the web",
+    "mp3": ""
+}, "vue.js": {
+    "word": "vue.js",
+    "related": "vue.js",
+    "description": "vue.js是一个创建交互web应用的框架，通过简单明了的API提供数据驱动的组件化开发。",
+    "mp3": ""
+}, "esprima": {
+    "word": "esprima",
+    "related": "esprima",
+    "description": "javascript语法树分析器",
+    "mp3": ""
+}, "video.js": {
+    "word": "video.js",
+    "related": "video.js",
+    "description": "开源的HTML5播放器",
+    "mp3": ""
+}, "Simditor": {
+    "word": "Simditor",
+    "related": "Simditor",
+    "description": "Simditor 是团队协作工具 Tower 使用的富文本编辑器。",
+    "mp3": ""
+}, "cloud9": {
+    "word": "cloud9",
+    "related": "cloud9",
+    "description": "超级牛逼的浏览器版ide，而且现在的新版支持各种平台上的各种浏览器查看效果，还有各种风格，主题，支持命令终端，debugger。还有各种强大的功能，快用用看吧！",
+    "mp3": ""
+}, "Avalon": {
+    "word": "Avalon",
+    "related": "Avalon",
+    "description": "Avalon是一个简单易用迷你的MVVM框架，它最早发布于2012.09.15，为解决同一业务逻辑存在各种视图呈现而开发出来的。比起angularjs来，avalon还是很mini的，源码也比较易懂，而且源码比angularJs易懂很多。作者：司徒正美 —— 国产的FE大神之一。",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/69/89/698967f805dea9ea073d188d73ab7390.mp3"
+}, "W3C Help": {
+    "word": "W3C Help",
+    "related": "W3C Help",
+    "description": "在这里查阅兼容性问题比较方便。W3help.org是由国内多家关注Web标准的公司、团体、标准组织，及科研单位等共同创立的Web标准推广网站。目的是为了促进Web标准技术在国内业界的应用和推广，提供跨浏览器开发资源，推动国内Web环境与国际标准的接轨，最终实现国内Web的标准化。",
+    "mp3": ""
+}, "tmodjs": {
+    "word": "tmodjs",
+    "related": "tmodjs",
+    "description": "简单易用的前端模板预编译工具。它通过预编译技术让前端模板突破浏览器限制，实现后端模板一样的同步“文件”加载能力。它采用目录来组织维护前端模板，从而让前端模板实现工程化管理，最终保证前端模板在复杂单页 web 应用下的可维护性。同时预编译输出的代码经过多层优化，能够在最大程度节省客户端资源消耗。",
+    "mp3": ""
+}, "dat-gui": {
+    "word": "dat-gui",
+    "related": "dat-gui",
+    "description": "A lightweight graphical user interface for changing variables in JavaScript.",
+    "mp3": ""
+}, "NProxy": {
+    "word": "NProxy",
+    "related": "NProxy",
+    "description": "基于文件替换规则的命令行代理工具",
+    "mp3": ""
+}, "Handlebars.js": {
+    "word": "Handlebars.js",
+    "related": "Handlebars.js",
+    "description": "轻松创建语义化前端模板的JS库",
+    "mp3": ""
+}, "nodeppt": {
+    "word": "nodeppt",
+    "related": "nodeppt",
+    "description": "Maybe the best PPT webapp ever     markdown based on GFM;mix-code with html and markdown;export your work with html and pdf format;18 different transition animations, and so on.",
+    "mp3": ""
+}, "PM2": {
+    "word": "PM2",
+    "related": "PM2",
+    "description": "pm2 is a process manager for Node apps with a built-in load balancer.",
+    "mp3": ""
+}, "Livepool": {
+    "word": "Livepool",
+    "related": "Livepool",
+    "description": "基于nodejs的跨平台web开发调试代理工具",
+    "mp3": ""
+}, "Punch": {
+    "word": "Punch",
+    "related": "Punch",
+    "description": "Punch is a simple, intuitive web publishing framework that will delight both designers and developers.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/86/b5/86b5cc59aefdeeebf86bd8eef7f08593.mp3"
+}, "Harp": {
+    "word": "Harp",
+    "related": "Harp",
+    "description": "The static web server with built-in preprocessing.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/8a/f0/8af0537e9a6ef798b9a8eeefbc54c8b4.mp3"
+}, "MetalSmith": {
+    "word": "MetalSmith",
+    "related": "MetalSmith",
+    "description": "An extremely simple, pluggable static site generator.",
+    "mp3": ""
+}, "CoffeeScript": {
+    "word": "CoffeeScript",
+    "related": "CoffeeScript",
+    "description": "CoffeeScript is a little language that compiles into JavaScript.",
+    "mp3": ""
+}, "HEXO": {
+    "word": "HEXO",
+    "related": "HEXO",
+    "description": "快速、简单的blog系统，nodejs构建",
+    "mp3": ""
+}, "CSS3贝塞尔曲线动画工具": {
+    "word": "CSS3贝塞尔曲线动画工具",
+    "related": "CSS3贝塞尔曲线动画工具",
+    "description": "妈妈再也不用担心我做CSS3动画了",
+    "mp3": ""
+}, "Kuler": {
+    "word": "Kuler",
+    "related": "Kuler",
+    "description": "最好的配色解决方案，Adobe出品，天生骄傲^ ^",
+    "mp3": ""
+}, "小志的CSS小工具": {
+    "word": "小志的CSS小工具",
+    "related": "小志的CSS小工具",
+    "description": "小志的CSS小工具",
+    "mp3": ""
+}, "CSSShrink": {
+    "word": "CSSShrink",
+    "related": "CSSShrink",
+    "description": "压缩CSS代码的工具",
+    "mp3": ""
+}, "Node-OpenCV": {
+    "word": "Node-OpenCV",
+    "related": "Node-OpenCV",
+    "description": "opencv是图像识别、处理的最普及的开源库，opencv(npm)是使用nodejs进行图像处理、图像识别的最佳良器。",
+    "mp3": ""
+}, "Ionic": {
+    "word": "Ionic",
+    "related": "Ionic",
+    "description": "The beautiful, open source front-end framework for developing hybrid mobile apps with HTML5.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/bf/28/bf2802b39384aa9e0b0a44f3fe9ee12a.mp3"
+}, "EnjoyCSS": {
+    "word": "EnjoyCSS",
+    "related": "EnjoyCSS",
+    "description": "在线生成CSS3代码",
+    "mp3": ""
+}, "gRaphaël": {
+    "word": "gRaphaël",
+    "related": "gRaphaël",
+    "description": "raphaeljs是一个很优秀的Js开源图表库，留给用户充分的发挥空间，同时可以兼容至IE6浏览器。可谓前端图表神器。",
+    "mp3": ""
+}, "CasperJS": {
+    "word": "CasperJS",
+    "related": "CasperJS",
+    "description": "基于Phantomjs基础上封装的用于浏览器编码测试工具。",
+    "mp3": ""
+}, "BinaryJS": {
+    "word": "BinaryJS",
+    "related": "BinaryJS",
+    "description": "Realtime binary streaming for the web using websockets",
+    "mp3": ""
+}, "Nippon Colors": {
+    "word": "Nippon Colors",
+    "related": "Nippon Colors",
+    "description": "来自日本的配色方案，交互很炫。",
+    "mp3": ""
+}, "世界の伝統色": {
+    "word": "世界の伝統色",
+    "related": "世界の伝統色",
+    "description": "来自日本的配色词典",
+    "mp3": ""
+}, "中国传统色彩": {
+    "word": "中国传统色彩",
+    "related": "中国传统色彩",
+    "description": "一组中国色彩的配色以及解说",
+    "mp3": ""
+}, "Poet": {
+    "word": "Poet",
+    "related": "Poet",
+    "description": "Poet is a blog generator in node.js to generate routing, render markdown/jade/whatever posts, and get a blog up and running fast.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/25/9c/259c436027c3912edc8df67bbe8e3984.mp3"
+}, "Q": {
+    "word": "Q",
+    "related": "Q",
+    "description": "A tool for making and composing asynchronous promises in JavaScript",
+    "mp3": ""
+}, "Async.js": {
+    "word": "Async.js",
+    "related": "Async.js",
+    "description": "Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.",
+    "mp3": ""
+}, "fontello": {
+    "word": "fontello",
+    "related": "fontello",
+    "description": "icon fonts generator",
+    "mp3": ""
+}, "Backbone.js": {
+    "word": "Backbone.js",
+    "related": "Backbone.js",
+    "description": "Backbone.js gives structure to web applications by providing MVC.",
+    "mp3": ""
+}, "GitBook": {
+    "word": "GitBook",
+    "related": "GitBook",
+    "description": "Utility for generating books and exercises using GitHub/Git and Markdown",
+    "mp3": ""
+}, "Animate.css": {
+    "word": "Animate.css",
+    "related": "Animate.css",
+    "description": "Animate.css is a bunch of cool, fun, and cross-browser animations for you to use in your projects.",
+    "mp3": ""
+}, "Shifty": {
+    "word": "Shifty",
+    "related": "Shifty",
+    "description": "Shifty is a JavaScript tweening engine designed to fit any number of tweening needs.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/74/f8/74f8c415e92197643bc697238b0a6685.mp3"
+}, "krakenjs": {
+    "word": "krakenjs",
+    "related": "krakenjs",
+    "description": "基于express的后端mvc框架",
+    "mp3": ""
+}, "Processingjs": {
+    "word": "Processingjs",
+    "related": "Processingjs",
+    "description": "a port of the Processing Visualization Language",
+    "mp3": ""
+}, "Web uploader": {
+    "word": "Web uploader",
+    "related": "Web uploader",
+    "description": "一个简单的以HTML5为主，FLASH为辅的现代文件上传组件",
+    "mp3": ""
+}, "Github Octicons": {
+    "word": "Github Octicons",
+    "related": "Github Octicons",
+    "description": "Github官网使用的图标字体文件库",
+    "mp3": ""
+}, "gif.js": {
+    "word": "gif.js",
+    "related": "gif.js",
+    "description": "JavaScript GIF encoder that runs in your browser.\r\n\r\nUses typed arrays and web workers to render each frame in the background, it's really fast!",
+    "mp3": ""
+}, "Stylus": {
+    "word": "Stylus",
+    "related": "Stylus",
+    "description": "CSS预处理器",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/f8/e6/f8e6d3cb3ab17623ac645967d50fba8b.mp3"
+}, "Flatiro\u0001n": {
+    "word": "Flatiro\u0001n",
+    "related": "Flatiro\u0001n",
+    "description": "an adaptable framework for building modern web applications",
+    "mp3": ""
+}, "Passport": {
+    "word": "Passport",
+    "related": "Passport",
+    "description": "Nodejs实现的简单权限校验库",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/d0/56/d056025fbea3c4700729c5b96b0ff97b.mp3"
+}, "Sequelize": {
+    "word": "Sequelize",
+    "related": "Sequelize",
+    "description": "基于Nodejs对MySQL/MariaDB/SQLite/PostgreSQL的数据访问层封装",
+    "mp3": ""
+}, "Expresso": {
+    "word": "Expresso",
+    "related": "Expresso",
+    "description": "Nodejs的TDD框架",
+    "mp3": "http://res-tts.iciba.com/e/5/3/e5324c8ea1de9cb25e63667ed35e3602.mp3"
+}, "Connect": {
+    "word": "Connect",
+    "related": "Connect",
+    "description": "Nodejs的中间件框架",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/b6/40/b640a0ce465fa2a4150c36b305c1c11b.mp3"
+}, "microscope.js": {
+    "word": "microscope.js",
+    "related": "microscope.js",
+    "description": "基于Express的MVC框架",
+    "mp3": ""
+}, "MongoDB": {
+    "word": "MongoDB",
+    "related": "MongoDB",
+    "description": "开源的NOSQL文本数据库",
+    "mp3": ""
+}, "Nodejs": {
+    "word": "Nodejs",
+    "related": "Nodejs",
+    "description": "让Javascript在服务端运行",
+    "mp3": ""
+}, "RAP": {
+    "word": "RAP",
+    "related": "RAP",
+    "description": "编辑、查看、使用、校验接口数据的工具",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/2e/2d/2e2d7fe5d75b602595df021c7841243b.mp3"
+}, "Mock.js": {
+    "word": "Mock.js",
+    "related": "Mock.js",
+    "description": "一款模拟数据生成器，能帮助前端独立于后端进行开发，编写单测",
+    "mp3": ""
+}, "Canvax": {
+    "word": "Canvax",
+    "related": "Canvax",
+    "description": "简单高效易用的canvas开发框架",
+    "mp3": ""
+}, "Cube": {
+    "word": "Cube",
+    "related": "Cube",
+    "description": "来自阿里妈妈的CSS解决方案",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/18/a6/18a64f7251cfb123aa7c358135d00d10.mp3"
+}, "Magix": {
+    "word": "Magix",
+    "related": "Magix",
+    "description": "适合用来构建大型的，面向前后端开发者以及 IE6 友好的OPOA应用。",
+    "mp3": ""
+}, "Crox": {
+    "word": "Crox",
+    "related": "Crox",
+    "description": "由JavaScript语言实现的高性能跨语言模板引擎。",
+    "mp3": ""
+}, "Brix": {
+    "word": "Brix",
+    "related": "Brix",
+    "description": "Brix 是基于 KISSY（PC端）和 Zepto、SeaJS 等（移动端）底层类库的应用层组件框架。",
+    "mp3": ""
+}, "Karma": {
+    "word": "Karma",
+    "related": "Karma",
+    "description": "自动监听文件变化进行快速测试的工具",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/32/0f/320feace9cefcab73c6b9de1f4f13512.mp3"
+}, "LESS": {
+    "word": "LESS",
+    "related": "LESS",
+    "description": "An overview of Less, how to download and use, examples and more.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/e3/7e/e37e8d912e8f7b8f9b5ef9452ba47ff1.mp3"
+}, "Compass": {
+    "word": "Compass",
+    "related": "Compass",
+    "description": "An open-source CSS Authoring Framework.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/86/9d/869d7b08ed596dbaadf3e827ce9dbd88.mp3"
+}, "iScroll": {
+    "word": "iScroll",
+    "related": "iScroll",
+    "description": "高性能，体积小，无外部依赖，跨平台的滚动组件",
+    "mp3": ""
+}, "SASS": {
+    "word": "SASS",
+    "related": "SASS",
+    "description": "CSS预编译工具",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/1f/8d/1f8dc276f8040001419c64e9d18f09cd.mp3"
+}, "React": {
+    "word": "React",
+    "related": "React",
+    "description": "专为解决DOM变化渲染性能而生的框架",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/26/6a/266a1f7c2e2345169d3bc448da45eae6.mp3"
+}, "mocha": {
+    "word": "mocha",
+    "related": "mocha",
+    "description": "在浏览器和Nodejs中运行的JS测试框架",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/db/21/db2180efe775b8addaf943c104da3df3.mp3"
+}, "Underscore.js": {
+    "word": "Underscore.js",
+    "related": "Underscore.js",
+    "description": "A whole mess of useful functional programming helpers without extending any built-in objects",
+    "mp3": ""
+}, "RequireJS": {
+    "word": "RequireJS",
+    "related": "RequireJS",
+    "description": "一个符合AMD规范的Javascript加载框架",
+    "mp3": ""
+}, "Hydra": {
+    "word": "Hydra",
+    "related": "Hydra",
+    "description": "一个模块化框架，包括必要工具用来创建可伸缩的web应用",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/84/36/84366803777e6ba127f4668d0a6fcb96.mp3"
+}, "Touchjs": {
+    "word": "Touchjs",
+    "related": "Touchjs",
+    "description": "来自百度的Touch事件库，功能强大",
+    "mp3": ""
+}, "Glue": {
+    "word": "Glue",
+    "related": "Glue",
+    "description": "CSS sprites生成工具",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/1e/d4/1ed4de8986cf6e4a68d5a18c135d36f2.mp3"
+}, "csscss": {
+    "word": "csscss",
+    "related": "csscss",
+    "description": "分析CSS文件，查找重复的样式定义。",
+    "mp3": ""
+}, "Brunch": {
+    "word": "Brunch",
+    "related": "Brunch",
+    "description": "超级快速的HTML5编译工具",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/8d/10/8d10243273889a03cb0271aee530ebb3.mp3"
+}, "Dojo": {
+    "word": "Dojo",
+    "related": "Dojo",
+    "description": "老牌Javascript基础库，对新技术始终跟进迅速。",
+    "mp3": "http://res-tts.iciba.com/9/b/e/9bea15890f18ef35a12767fef5d234b8.mp3"
+}, "JSHint": {
+    "word": "JSHint",
+    "related": "JSHint",
+    "description": "代码风格检查器",
+    "mp3": ""
+}, "meteor": {
+    "word": "meteor",
+    "related": "meteor",
+    "description": "基于Nodejs的全栈框架",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/8f/6b/8f6b983ad06881847a180f1398910891.mp3"
+}, "JSLint": {
+    "word": "JSLint",
+    "related": "JSLint",
+    "description": "道格拉斯出品的Javascript代码风格检查工具",
+    "mp3": ""
+}, "Grunt": {
+    "word": "Grunt",
+    "related": "Grunt",
+    "description": "JavaScript 任务执行工具",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/ab/95/ab950343e97df05f1262e24666111fb6.mp3"
+}, "Bower": {
+    "word": "Bower",
+    "related": "Bower",
+    "description": "为web设计的包管理工具",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/c3/a4/c3a4419258c98e9dc1dd5c36a7ec9fad.mp3"
+}, "ExpressJS": {
+    "word": "ExpressJS",
+    "related": "ExpressJS",
+    "description": "Nodejs的web框架",
+    "mp3": ""
+}, "Yeoman": {
+    "word": "Yeoman",
+    "related": "Yeoman",
+    "description": "脚手架工具集，为现代网站设计",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/55/c0/55c03759799bf821a62566168fbf29e0.mp3"
+}, "Overthrow": {
+    "word": "Overthrow",
+    "related": "Overthrow",
+    "description": "一个基于原生方案的滚动支持库",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/ab/f7/abf712462fa6f1bc237fab3ff46d952f.mp3"
+}, "gulpjs": {
+    "word": "gulpjs",
+    "related": "gulpjs",
+    "description": "流式构建系统",
+    "mp3": ""
+}, "Font Awesome": {
+    "word": "Font Awesome",
+    "related": "Font Awesome",
+    "description": "一套包括icon font的CSS框架",
+    "mp3": ""
+}, "Hammer.js": {
+    "word": "Hammer.js",
+    "related": "Hammer.js",
+    "description": "Javascript多点手势库",
+    "mp3": ""
+}, "thumbs.js": {
+    "word": "thumbs.js",
+    "related": "thumbs.js",
+    "description": "Touch事件库",
+    "mp3": ""
+}, "polymer": {
+    "word": "polymer",
+    "related": "polymer",
+    "description": "利用最新web技术，让你创建自定义的元素的库。",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/6a/c9/6ac9fb6e69374501bea0bcad9749c0a7.mp3"
+}, "Fiddler": {
+    "word": "Fiddler",
+    "related": "Fiddler",
+    "description": "用来调试网络请求的工具。",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/ff/dd/ffdd2ab23d19fe7e88f0127204970848.mp3"
+}, "HTML5 Please": {
+    "word": "HTML5 Please",
+    "related": "HTML5 Please",
+    "description": "HTML5、CSS3功能及退化方案查询",
+    "mp3": ""
+}, "normalize.css": {
+    "word": "normalize.css",
+    "related": "normalize.css",
+    "description": "现代、HTML5-ready的CSS resets",
+    "mp3": ""
+}, "Sails": {
+    "word": "Sails",
+    "related": "Sails",
+    "description": "Realtime MVC Framework for Node.js",
+    "mp3": ""
+}, "UEditor": {
+    "word": "UEditor",
+    "related": "UEditor",
+    "description": "UEditor是由百度web前端研发部开发所见即所得富文本web编辑器，具有轻量，可定制，注重用户体验等特点",
+    "mp3": ""
+}, "ActionHero": {
+    "word": "ActionHero",
+    "related": "ActionHero",
+    "description": "可重用、可伸缩、性能高的Node.js API服务端",
+    "mp3": ""
+}, "Socket.io": {
+    "word": "Socket.io",
+    "related": "Socket.io",
+    "description": "Node.js实时应用框架，利用了WebSockets技术。",
+    "mp3": ""
+}, "Koajs": {
+    "word": "Koajs",
+    "related": "Koajs",
+    "description": "一个新的Nodejs框架，由Express团队构建。",
+    "mp3": ""
+}, "Foundation": {
+    "word": "Foundation",
+    "related": "Foundation",
+    "description": "The most advanced responsive front-end framework in the world.",
+    "mp3": "http://res.iciba.com/resource/amp3/1/0/01/ba/01baf36bbdfd6958a8f4fa68b8eb9138.mp3"
+}, "TodoMVC": {
+    "word": "TodoMVC",
+    "related": "TodoMVC",
+    "description": "帮助你选择MV*前端框架",
+    "mp3": ""
+}, "PhoneGap": {
+    "word": "PhoneGap",
+    "related": "PhoneGap",
+    "description": "利用标准web API创建跨平台的apps",
+    "mp3": ""
+}, "Flat UI": {
+    "word": "Flat UI",
+    "related": "Flat UI",
+    "description": "基于Bootstrap的响应式Theme",
+    "mp3": ""
+}, "FIS": {
+    "word": "FIS",
+    "related": "FIS",
+    "description": "百度的前端集成解决方案，包括构建工具，框架等。",
+    "mp3": ""
+}, "HttpWatch": {
+    "word": "HttpWatch",
+    "related": "HttpWatch",
+    "description": "HTTP嗅探器，可用于IE、Firefox、iPhone、iPad",
+    "mp3": ""
+}, "KnockoutJS": {
+    "word": "KnockoutJS",
+    "related": "KnockoutJS",
+    "description": "简单动态的JavaScript MVVM框架",
+    "mp3": ""
+}, "AngularJS": {
+    "word": "AngularJS",
+    "related": "AngularJS",
+    "description": "利用数据绑定、依赖注入等技术构建webapp的框架。",
+    "mp3": ""
+}}

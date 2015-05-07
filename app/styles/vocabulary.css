@@ -1,0 +1,22 @@
+/* vocabulary styling */
+
+#vocabulary_list li {
+    cursor: pointer;
+}
+
+#vocabulary_list li:hover {
+    background-color: #d9edf7;
+}
+
+#vocabulary_list li.active:hover {
+    background-color: #337ab7;
+}
+
+#vocabulary_list li.active a {
+    color: #FFF;
+}
+
+.related-info.fixed-top{
+    position: fixed;
+    top: 0;
+}
