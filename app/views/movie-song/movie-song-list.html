@@ -1,0 +1,15 @@
+<div class="container">
+   <div class="albumGrid" ng-show="!noDataFound">
+      <div class="album-item col-lg-2 col-md-3 col-sm-4 col-xs-6 " ng-repeat = "movie in movieList" >
+         <a ui-sref="movie-song.desc({id:{{movie.id}}})">
+            <div class="album">
+               <img class="img" ng-src="{{movie.imageUrl}}" width="150" >
+            </div>
+            <h3 class="title">{{movie.name}}</h3>
+         </a>
+      </div>
+   </div>
+   <div class="noDataFound" ng-show="noDataFound">
+      <p>No Data Found</p>
+   </div>
+</div>

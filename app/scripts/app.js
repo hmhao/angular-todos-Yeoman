@@ -20,7 +20,8 @@ angular.module('nodejsYoApp', [
     'uiRouter',
     'form',
     'book',
-    'vocabulary'
+    'vocabulary',
+    'movie-songs'
   ])
   .config(['localStorageServiceProvider', function(localStorageServiceProvider){
      localStorageServiceProvider.setPrefix('ls');

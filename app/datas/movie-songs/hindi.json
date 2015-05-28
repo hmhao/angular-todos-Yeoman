@@ -1,0 +1,1020 @@
+[
+    {
+        "id": "1",
+        "imageUrl": "images/movie-songs/kick.jpg",
+        "name": "Kick",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "HimeshReshimmiya",
+        "duration": "1: 13: 01",
+        "actors": [
+            "SalmanKhan",
+            "JacquelineFernandez",
+            "RandeepHooda",
+            "MithunChakraborty",
+            "NawazuddinSiddiqui"
+        ]
+    },
+    {
+        "id": "2",
+        "imageUrl": "images/movie-songs/creature.jpg",
+        "name": "Creature 3D",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Tony Kakkar",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Bipasha Basu",
+            "Imran Abbas Naqvi",
+            "Bikramjeet Singh",
+            "Deepraj Rana",
+            "Mukul Dev"
+        ]
+    },
+    {
+        "id": "3",
+        "imageUrl": "images/movie-songs/singam.jpg",
+        "name": "Singham Returns",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Honey Singh",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Ajay Devgn",
+            "Kareena Kapoor",
+            "Anupam Kher",
+            "Amol Gupte",
+            "Anupam Kher",
+            "Sameer Dharmadhikari",
+            "Dayanand Shetty",
+            "Zakir Hussain"
+        ]
+    },
+    {
+        "id": "4",
+        "imageUrl": "images/movie-songs/entertainment.jpg",
+        "name": "Entertainment",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Sachin jigar",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Akshay Kumar",
+            "Tamannaah Bhatia",
+            "Krushna Abhishek",
+            "Mithun Chakraborty"
+        ]
+    },
+    {
+        "id": "5",
+        "imageUrl": "images/movie-songs/ekVilan.jpg",
+        "name": "Ek Villain",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Ankit Tiwari",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Sidharth Malhotra",
+            "Shraddha Kapoor",
+            "Riteish Deshmukh"
+        ]
+    },
+    {
+        "id": "6",
+        "imageUrl": "images/movie-songs/Humshakals.jpg",
+        "name": "Humshakals",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "HimeshReshimmiya",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Saif Ali Khan",
+            "Riteish Deshmukh",
+            "Bipasha Basu",
+            "Tamannaah Bhatia",
+            "Esha Gupta"
+        ]
+    },
+    {
+        "id": "7",
+        "imageUrl": "images/movie-songs/Holiday.jpg",
+        "name": "Holiday",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Pritam Chakraborty",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Sonakshi Sinha",
+            "Akshay Kumar"
+        ]
+    },
+    {
+        "id": "8",
+        "imageUrl": "images/movie-songs/BobbyJasoos.jpg",
+        "name": "Bobby Jasoos",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Shantanu Moitra",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Vidya Balan",
+            "Ali Fazal, Arjan Bajwa",
+            "Anu Priya",
+            "Supriya Pathak",
+            "Tanvi Azmi"
+        ]
+    },
+    {
+        "id": "1",
+        "imageUrl": "images/movie-songs/kick.jpg",
+        "name": "Kick",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "HimeshReshimmiya",
+        "duration": "1: 13: 01",
+        "actors": [
+            "SalmanKhan",
+            "JacquelineFernandez",
+            "RandeepHooda",
+            "MithunChakraborty",
+            "NawazuddinSiddiqui"
+        ]
+    },
+    {
+        "id": "2",
+        "imageUrl": "images/movie-songs/creature.jpg",
+        "name": "Creature 3D",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Tony Kakkar",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Bipasha Basu",
+            "Imran Abbas Naqvi",
+            "Bikramjeet Singh",
+            "Deepraj Rana",
+            "Mukul Dev"
+        ]
+    },
+    {
+        "id": "3",
+        "imageUrl": "images/movie-songs/singam.jpg",
+        "name": "Singham Returns",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Honey Singh",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Ajay Devgn",
+            "Kareena Kapoor",
+            "Anupam Kher",
+            "Amol Gupte",
+            "Anupam Kher",
+            "Sameer Dharmadhikari",
+            "Dayanand Shetty",
+            "Zakir Hussain"
+        ]
+    },
+    {
+        "id": "4",
+        "imageUrl": "images/movie-songs/entertainment.jpg",
+        "name": "Entertainment",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Sachin jigar",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Akshay Kumar",
+            "Tamannaah Bhatia",
+            "Krushna Abhishek",
+            "Mithun Chakraborty"
+        ]
+    },
+    {
+        "id": "5",
+        "imageUrl": "images/movie-songs/ekVilan.jpg",
+        "name": "Ek Villain",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Ankit Tiwari",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Sidharth Malhotra",
+            "Shraddha Kapoor",
+            "Riteish Deshmukh"
+        ]
+    },
+    {
+        "id": "6",
+        "imageUrl": "images/movie-songs/Humshakals.jpg",
+        "name": "Humshakals",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "HimeshReshimmiya",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Saif Ali Khan",
+            "Riteish Deshmukh",
+            "Bipasha Basu",
+            "Tamannaah Bhatia",
+            "Esha Gupta"
+        ]
+    },
+    {
+        "id": "7",
+        "imageUrl": "images/movie-songs/Holiday.jpg",
+        "name": "Holiday",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Pritam Chakraborty",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Sonakshi Sinha",
+            "Akshay Kumar"
+        ]
+    },
+    {
+        "id": "8",
+        "imageUrl": "images/movie-songs/BobbyJasoos.jpg",
+        "name": "Bobby Jasoos",
+        "category": "hindi",
+        "songs": [
+            {
+                "songName": "Jumme Ki Raat, Pt. 1",
+                "singers": "Mika Singh, Palak Muchhal"
+            },
+            {
+                "songName": "Hangover",
+                "singers": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal"
+            },
+            {
+                "songName": "Tu Hi Tu, Pt. 1",
+                "singers": "Mohammed Irfan"
+            },
+            {
+                "songName": "Yaar Naa Miley",
+                "singers": "Yo Yo Honey Singh, Jasmine Sandlas"
+            },
+            {
+                "songName": "JummeKiRaat",
+                "singers": "SalmanKhan, PalakMuchhal"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Shantanu Moitra",
+        "duration": "1: 13: 01",
+        "actors": [
+            "Vidya Balan",
+            "Ali Fazal, Arjan Bajwa",
+            "Anu Priya",
+            "Supriya Pathak",
+            "Tanvi Azmi"
+        ]
+    }
+]

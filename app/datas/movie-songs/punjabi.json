@@ -1,0 +1,864 @@
+[
+    {
+        "id": "1",
+        "imageUrl": "images/movie-songs/Kaaviyathalaivan.jpg",
+        "name": "Kaaviyathalaivan",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "A.R. Rahman",
+        "duration": "20:00",
+        "actors": [
+            " Siddharth",
+            "Prithviraj",
+            "Anaika"
+        ]
+    },
+    {
+        "id": "2",
+        "imageUrl": "images/movie-songs/Sigaram-Thodu.jpg",
+        "name": "Sigaram Thodu",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "D. Imman ",
+        "duration": "20:00",
+        "actors": [
+            " Vikram Prabhu",
+            "Prithviraj",
+            "Monal Gajjar"
+        ]
+    },
+    {
+        "id": "3",
+        "imageUrl": "images/movie-songs/Anjaan.jpg",
+        "name": "Anjaan",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Yuvanshankar Raja",
+        "duration": "20:00",
+        "actors": [
+            " Suriya",
+            "Samantha"
+        ]
+    },
+    {
+        "id": "4",
+        "imageUrl": "images/movie-songs/Velaiyilla-Pattathari.jpg",
+        "name": "Velaiyilla Pattathari",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Anirudh Ravichander",
+        "duration": "20:00",
+        "actors": [
+            " Dhanush"
+        ]
+    },
+    {
+        "id": "5",
+        "imageUrl": "images/movie-songs/Thegidi.jpg",
+        "name": "Thegidi",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Nivas K. Prasanna",
+        "duration": "20:00",
+        "actors": [
+            " Ashok Selvan",
+            "Janani Iyer",
+            "Jayaprakash"
+        ]
+    },
+    {
+        "id": "6",
+        "imageUrl": "images/movie-songs/Vaaimai.jpg",
+        "name": "Vaaimai",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "A.R. Rahman",
+        "duration": "20:00",
+        "actors": [
+            " Bharathiraja",
+            "Pandiyarajan",
+            "Poornima"
+        ]
+    },
+    {
+        "id": "7",
+        "imageUrl": "images/movie-songs/Nambiyaar.jpg",
+        "name": "Nambiyaar",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "A.R. Rahman",
+        "duration": "20:00",
+        "actors": [
+            " Bharathiraja",
+            "Pandiyarajan",
+            "Poornima"
+        ]
+    },
+    {
+        "id": "1",
+        "imageUrl": "images/movie-songs/Kaaviyathalaivan.jpg",
+        "name": "Kaaviyathalaivan",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "A.R. Rahman",
+        "duration": "20:00",
+        "actors": [
+            " Siddharth",
+            "Prithviraj",
+            "Anaika"
+        ]
+    },
+    {
+        "id": "2",
+        "imageUrl": "images/movie-songs/Sigaram-Thodu.jpg",
+        "name": "Sigaram Thodu",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "D. Imman ",
+        "duration": "20:00",
+        "actors": [
+            " Vikram Prabhu",
+            "Prithviraj",
+            "Monal Gajjar"
+        ]
+    },
+    {
+        "id": "3",
+        "imageUrl": "images/movie-songs/Anjaan.jpg",
+        "name": "Anjaan",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Yuvanshankar Raja",
+        "duration": "20:00",
+        "actors": [
+            " Suriya",
+            "Samantha"
+        ]
+    },
+    {
+        "id": "4",
+        "imageUrl": "images/movie-songs/Velaiyilla-Pattathari.jpg",
+        "name": "Velaiyilla Pattathari",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Anirudh Ravichander",
+        "duration": "20:00",
+        "actors": [
+            " Dhanush"
+        ]
+    },
+    {
+        "id": "5",
+        "imageUrl": "images/movie-songs/Thegidi.jpg",
+        "name": "Thegidi",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "Nivas K. Prasanna",
+        "duration": "20:00",
+        "actors": [
+            " Ashok Selvan",
+            "Janani Iyer",
+            "Jayaprakash"
+        ]
+    },
+    {
+        "id": "6",
+        "imageUrl": "images/movie-songs/Vaaimai.jpg",
+        "name": "Vaaimai",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "A.R. Rahman",
+        "duration": "20:00",
+        "actors": [
+            " Bharathiraja",
+            "Pandiyarajan",
+            "Poornima"
+        ]
+    },
+    {
+        "id": "7",
+        "imageUrl": "images/movie-songs/Nambiyaar.jpg",
+        "name": "Nambiyaar",
+        "category": "tamil",
+        "songs": [
+            {
+                "songName": "Maar Salaam",
+                "singers": "Suchith Suresan"
+            },
+            {
+                "songName": "Rakaasi Rakaasi",
+                "singers": "Jr. N.T.R"
+            },
+            {
+                "songName": "Garam Garam Chilaka",
+                "singers": "Srikrishna, Deepu, Bindu Mahima, Parnika"
+            },
+            {
+                "songName": "Hawa Hawa",
+                "singers": "Karthik, Megha"
+            },
+            {
+                "songName": "Dam Damare",
+                "singers": "Simha, Sooraj Santosh, Nivas, Deepthi Madhuri"
+            }
+        ],
+        "comments": [
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "all movie-songs super",
+                "name": "Khan"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "AwesomeMusic",
+                "name": "Sachin"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "great Music",
+                "name": "John"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Not Bad",
+                "name": "Rajesh"
+            },
+            {
+                "thumb": "images/movie-songs/default.jpg",
+                "text": "Watchable",
+                "name": "Sai Ram"
+            }
+        ],
+        "music": "A.R. Rahman",
+        "duration": "20:00",
+        "actors": [
+            " Bharathiraja",
+            "Pandiyarajan",
+            "Poornima"
+        ]
+    }
+]

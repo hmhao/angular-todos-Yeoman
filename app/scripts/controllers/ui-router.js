@@ -1,7 +1,7 @@
 'use strict';
 
 var uiRouter = angular.module('uiRouter', ['ui.router']);
-uiRouter.config(function($stateProvider, $urlRouterProvider) {
+uiRouter.config(function ($stateProvider, $urlRouterProvider) {
     $urlRouterProvider.otherwise('/');
     $stateProvider
         .state('#', {//将template替换到顶层ui-view
@@ -60,8 +60,8 @@ uiRouter.config(function($stateProvider, $urlRouterProvider) {
             views: {
                 'main': {//将template替换到uirouter中ui-view=main
                     templateUrl: 'views/ui-router/usermng.html',
-                    controller: function($scope, $state) {
-                        $scope.addUserType = function() {
+                    controller: function ($scope, $state) {
+                        $scope.addUserType = function () {
                             $state.go('uirouter.usermng.addusertype');
                         };
                     }
@@ -83,8 +83,8 @@ uiRouter.config(function($stateProvider, $urlRouterProvider) {
         .state('uirouter.usermng.addusertype', {
             url: '/addusertype',
             templateUrl: 'views/ui-router/addusertypeform.html',
-            controller: function($scope, $state) {
-                $scope.backToPrevious = function() {
+            controller: function ($scope, $state) {
+                $scope.backToPrevious = function () {
                     window.history.back();
                 };
             }
@@ -113,59 +113,72 @@ uiRouter.config(function($stateProvider, $urlRouterProvider) {
                 }
             }
         });
-    })
+})
     .controller('NavbarCtrl', function ($scope, $location) {
         $scope.menus = [
-          {
-            label: 'Home',
-            href: '#/',
-            regexp: /^\/?$/,
-            active:false
-          },{
-            label: 'Search',
-            href: '#/search',
-            regexp: /^\/search$/,
-            active:false
-          },{
-            label: 'Note',
-            href: '#/note',
-            regexp: /^\/note$/,
-            active:false
-          },{
-            label: 'Phone',
-            href: '#/phones',
-            regexp: /^\/phones(?:\/)?/,
-            active:false
-          },{
-            label: 'UIRouter',
-            href: '#/uirouter',
-            regexp: /^\/uirouter(?:\/)?/,
-            active:false
-          },{
-            label: 'Form',
-            href: '#/form',
-            regexp: /^\/form(?:\/)?/,
-            active:false
-          },{
-            label: 'Book',
-            href: '#/book',
-            regexp: /^\/book(?:\/)?/,
-            active:false
-          },{
-            label: 'Vocabulary',
-            href: '#/vocabulary',
-            regexp: /^\/vocabulary(?:\/)?/,
-            active:false
-          }
+            {
+                label: 'Home',
+                href: '#/',
+                regexp: /^\/?$/,
+                active: false
+            },
+            {
+                label: 'Search',
+                href: '#/search',
+                regexp: /^\/search$/,
+                active: false
+            },
+            {
+                label: 'Note',
+                href: '#/note',
+                regexp: /^\/note$/,
+                active: false
+            },
+            {
+                label: 'Phone',
+                href: '#/phones',
+                regexp: /^\/phones(?:\/)?/,
+                active: false
+            },
+            {
+                label: 'UIRouter',
+                href: '#/uirouter',
+                regexp: /^\/uirouter(?:\/)?/,
+                active: false
+            },
+            {
+                label: 'Form',
+                href: '#/form',
+                regexp: /^\/form(?:\/)?/,
+                active: false
+            },
+            {
+                label: 'Book',
+                href: '#/book',
+                regexp: /^\/book(?:\/)?/,
+                active: false
+            },
+            {
+                label: 'Vocabulary',
+                href: '#/vocabulary',
+                regexp: /^\/vocabulary(?:\/)?/,
+                active: false
+            },
+            {
+                label: 'MovieSongs',
+                href: '#/movie-song',
+                regexp: /^\/movie-song(?:\/)?/,
+                active: false
+            }
         ];
         var path = $location.path();
-        for(var i = 0, len = $scope.menus.length; i < len; i++){
-          $scope.menus[i].active = $scope.menus[i].regexp.test(path);
+        for (var i = 0, len = $scope.menus.length; i < len; i++) {
+            $scope.menus[i].active = $scope.menus[i].regexp.test(path);
         }
 
-        $scope.toggleActive = function(item){
-          for(var i = 0, len = $scope.menus.length; i < len; i++){
-            $scope.menus[i].active = $scope.menus[i] === item;
-          }
+        $scope.toggleActive = function (item) {
+            for (var i = 0, len = $scope.menus.length; i < len; i++) {
+                $scope.menus[i].active = $scope.menus[i] === item;
+            }
         };
     });

@@ -1,0 +1,44 @@
+<section class="miniContainer">
+    <div class="aboutAlbum col-lg-4 col-md-6 col-sm-7 col-xs-12">
+        <h2>About This Album</h2>
+        <div class="page-meta-group">
+            <h4>Actors</h4>
+            <p class="meta-list"><a ng-repeat="actor in movie.actors">{{actor}}</a>
+        </div>
+    </div>
+    <div class="track-list col-lg-8 col-md-6 col-sm-5 col-xs-12">
+        <ul>
+            <li class="song-wrap" ng-repeat="song in movie.songs">
+                <div class="index">{{$index +1}}</div>
+                <span class="time">4:48</span>
+            <span class="song-track">
+            <span class="songTitle">{{song.songName}}</span>
+            <span class="singer">{{song.singers}}</span>
+            </span>
+            </li>
+        </ul>
+        <div class="comments">
+            <div class="commentsForm">
+                <h2>Comments</h2>
+
+                <form class="commentsFormContent" name="formCommetns" novalidate
+                      ng-submit="formCommetns.$valid && submitComment()">
+                    <a><img src="/images/movie-songs/default.jpg"></a>
+
+                    <div class="textwrapper">
+                        <textarea name="reviews" placeholder="Add Comments..." rows=11 cols=50 maxlength=250 required
+                                  ng-model="commentBody"></textarea>
+                    </div>
+                    <input type="submit" class="btn btn-primary reviewSubmit" value="submit"/>
+                </form>
+            </div>
+            <div class="listOfComments" ng-repeat="comment in movie.comments">
+                <a><img ng-src="{{comment.thumb}}"></a>
+
+                <div class="textwrapper">
+                    <p>{{comment.text}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -112,7 +112,7 @@ angular.module('book', ['ui.router', 'ngTable'])
             },
             getBook: function(bookId){
                 for (var i = this.books.length - 1; i >= 0; i--) {
-                    if(this.books[i].bookId == bookId) return this.books[i];
+                    if(this.books[i].bookId === bookId) return this.books[i];
                 }
                 return {};
             },

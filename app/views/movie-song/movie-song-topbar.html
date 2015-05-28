@@ -1,0 +1,27 @@
+<div class="navbar navbar-inverse header" role="navigation">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand logo" ui-sref="song">SongsNew</a>
+    </div>
+    <div class="navbar-collapse collapse headerNav">
+        <ul class="nav navbar-nav navbar-right">
+            <li ui-sref-active-eq="active"><a ui-sref="movie-song({category:'all'})">All</a></li>
+            <li ui-sref-active-eq="active"><a ui-sref="movie-song({category:'hindi'})">Hindi</a></li>
+            <li ui-sref-active-eq="active"><a ui-sref="movie-song({category:'telugu'})">Telugu</a></li>
+            <li ui-sref-active-eq="active"><a ui-sref="movie-song({category:'tamil'})">Tamil</a></li>
+            <li ui-sref-active-eq="active"><a ui-sref="movie-song({category:'kannada'})">Kannada</a></li>
+            <li ui-sref-active-eq="active"><a ui-sref="movie-song({category:'punjabi'})">Punjabi</a></li>
+        </ul>
+        <div class="search" ng-controller="MovieSearchCtrl">
+            <form class="navbar-form navbar-right" name="searchForm" novalidate ng-submit="searchForm.$valid && searchSubmit()">
+                <input type="text" class="form-control SearchSongs" ng-model="searchValue" required placeholder="Search Movie">
+                <span class="glyphicon glyphicon-search searchIcon" ng-click="searchSubmit()"></span>
+            </form>
+        </div>
+    </div>
+</div>

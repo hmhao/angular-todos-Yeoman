@@ -1,0 +1,21 @@
+<div class="container movieDescp">
+    <section>
+        <div class="page-header flush">
+            <div class="col-lg-4 col-md-6 col-sm-7 col-xs-12">
+                <div class="art">
+                    <img ng-src="{{movie.imageUrl}}" width="280"
+                         alt="Creature 3D  2014 Bipasha Basu, Imran Abbas Naqvi, Bikramjeet Singh, Deepraj Rana, Mukul Dev">
+                </div>
+            </div>
+            <div class="meta-info col-lg-8 col-md-6 col-sm-5 col-xs-12">
+                <h1 class="page-title">{{movie.name}}</h1>
+                <h2 class="page-subtitle">by <a class="">{{movie.music}}</a>, · {{movie.spec.length}} Songs · 42:52</h2>
+                <p class="small copyright">Released Aug 8, 2014<br>© T-Series</p>
+            </div>
+            <div class="header-fill">
+                <img ng-src="{{movie.imageUrl}}" alt="">
+            </div>
+        </div>
+        <song-detail></song-detail>
+    </section>
+</div>
